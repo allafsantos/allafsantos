@@ -19,7 +19,7 @@
 <div> 
  <a href="https://instagram.com/allaf.santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/allaf-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://www.linkedin.com/in/allaf-santos" target="_blank"><img src="https://img.shields.io/static/v1?label=Curriculo&message=Curriculo&color=lightgrey"target="_blank"></a>
+ <a href="https://drive.google.com/file/d/1bG3MC_dFQDEosZF0B6SgpR486fL5xLQK/view?usp=sharing" target="_blank"><img src="https://img.shields.io/static/v1?label=Curriculo&color=lightgrey"target="_blank"></a>
  
   ![Snake animation](https://github.com/allafsantos/allafsantos/blob/output/github-contribution-grid-snake.svg)
 
